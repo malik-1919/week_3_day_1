@@ -27,7 +27,7 @@ number4=123.33
 number5=4555
 #create a sentence of all this above
 print("date of birth is"+ str(date_of_birth)+"and they are somehow"+str(Number2) +"," +str(number3) +","+str(number4)+","+str (number5)+"years old")
-print(f"date of birth of is {date_of_birth} and is {number3}")
+print(f"date of birth of is {date_of_birth} and is {number3} and the other person is {number4}")
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
 ##########################################################################################
 
@@ -65,13 +65,14 @@ print(f"date of birth of is {date_of_birth} and is {number3}")
 # Correcting Invalid Names: Below are some invalid names. Correct them according to the rules:
 
 
-# 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
+# first_name
+# last_name
+# emailaddress
+# percent
+# variablename
+# zero
+# list # this is a keyword in python 
+#you cannot use it for your own variable name
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -92,10 +93,10 @@ print(f"date of birth of is {date_of_birth} and is {number3}")
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# one_variable
+# email_address
+# percentage
+# internet 
 
 
 
