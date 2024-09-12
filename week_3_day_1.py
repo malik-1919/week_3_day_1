@@ -216,6 +216,33 @@ print(num1 % num2)
 print(round(num1))
 
 
+num3= int(input("enter a number:"))
+num4= int(input("enter another number:"))
+print(num3 - num4)
+print(num3/num4)
+print("the min of the third number and fourth numberis",min(num3 + num4))
+print("the absolute value of the fourth number is",abs(num4))
+print("the floor of your third number is",floor(num3))
+print("the ceil of your fourth number is",ceil(num4))
+print("the square root of your third number and fourth number is",sqrt(num3 + num4))
+
+
+color-input("enter a color:")
+plural_noun=input("enter a plural noun:")
+celebrity=input("enter a celebrity:")
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
